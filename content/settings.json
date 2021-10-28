@@ -1,24 +1,24 @@
 {
-  "store_id": 14161,
-  "name": "estudiopapelriscado",
   "domain": "estudiopapelriscado.netlify.app",
-  "short_name": "estudiopapelriscado",
-  "description": "estudiopapelriscado",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#6ad3b8",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/estudiopapelriscado",
+  "logo": "/img/uploads/simbolo-grafico_redondo.png",
+  "name": "Estúdio Papel Riscado",
+  "short_name": "estudiopapelriscado",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/lapis_papel_riscado.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/estudiopapelriscado"
+  "secondary_color": "#a877e8",
+  "icon": "/img/uploads/simbolo-grafico_redondo.png",
+  "store_id": 14161,
+  "description": "estudiopapelriscado",
+  "large_icon": "/img/uploads/simbolo-grafico_redondo.png"
 }
