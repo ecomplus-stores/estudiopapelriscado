@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.41642d80dd52db6d5508e55343b984bb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.02c631ef53080a35046120e4a691009b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.eac3a96de2477615aa69a5b5211f9da6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0103e3b22b703672ae4e29db16a8fb09.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.60a8fb17152ad762bcea57931e5f1ad2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Estúdio Papel Riscado",
+  "short_name": "estudiopapelriscado",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "estudiopapelriscado",
+  "background_color": "#ffffff",
+  "theme_color": "#6ad3b8"
+}
