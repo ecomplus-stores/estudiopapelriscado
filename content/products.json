@@ -23,6 +23,14 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "lowest_price",
+      "headless": false
     }
   ]
 }
